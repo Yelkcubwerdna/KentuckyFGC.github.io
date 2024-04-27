@@ -4,4 +4,4 @@ Following the OhioFGC framework, I'm creating a website to host information abou
 
 If you think something should be added to the site, get in contact with me here or on [twitter](https://twitter.com/sniffulls).
 
-You can view the site [link to come]
+You can view the site [here](https://fgckentucky.com).
