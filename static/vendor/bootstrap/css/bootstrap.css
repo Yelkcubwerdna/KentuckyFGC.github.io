@@ -5347,6 +5347,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .list-group-item {
+  overflow: hidden;
   position: relative;
   display: block;
   padding: 0.75rem 1.25rem;
